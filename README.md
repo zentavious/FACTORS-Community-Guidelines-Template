@@ -12,7 +12,7 @@ Publishing clear guidelines for research in your community is an important step 
 
 The fact that you’re reading this is already a good sign that you’re well-equipped to think about what guidelines for research should look like for your community. This repository contains two templates developed from other online communities’ actual research guidelines:
 
-* **Baseline Template:** A straightforward set of guidelines to help you start thinking about what research guidelines could look like. This baseline is ready to use with limited customization. It is designed to encourage researchers to review proposed research with your community on a case-by-case basis.
+* **[Baseline Template](https://github.com/zentavious/FACTORS-Community-Guidelines-Template/blob/main/Baseline%20Template.md#baseline-template):** A straightforward set of guidelines to help you start thinking about what research guidelines could look like. This baseline is ready to use with limited customization. It is designed to encourage researchers to review proposed research with your community on a case-by-case basis.
 * **Customizable Template:** A more hands-on option that walks you through elements of the Baseline Template and more. It includes a variety of examples inspired by other communities so that you can generate guidelines that uniquely fit your community’s values and goals. It requires more time to create but can save significant effort down the road.
 
 Feel free to start with the baseline template and build from there as you learn more about what good research looks like in your community. 
@@ -33,7 +33,7 @@ If your community develops insights or improvements, we encourage you to share t
 
 ### Filling out the template
 
-These instructions are designed to help you fill out and familiarize yourself with the Baseline Template. Each placeholder below corresponds directly to bracketed tags in the Baseline Template. 
+These instructions are designed to help you fill out and familiarize yourself with the [Baseline Template](https://github.com/zentavious/FACTORS-Community-Guidelines-Template/blob/main/Baseline%20Template.md#baseline-template). Each placeholder below corresponds directly to bracketed tags in the template. 
 
 ### `[[Community Name]]`
 The name of your community.
