@@ -25,7 +25,7 @@ By making your expectations clear, you establish a standard for accountability, 
 Best practices for online research are constantly evolving, as are the ways online communities support research.
 Turning on notifications for this repository is one way of staying informed.
 This template is intended to be a starting point for conversation.
-If your community develops insights or improvements, we encourage you to share them with others by submitting a pull request or forking this reposity.
+If your community develops insights or improvements, we encourage you to share them with others by submitting a pull request or forking this repository.
 
 ---
 
