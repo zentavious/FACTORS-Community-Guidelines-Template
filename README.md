@@ -17,6 +17,8 @@ The fact that you’re reading this is already a good sign that you’re well-eq
 
 Feel free to start with the baseline template and build from there as you learn more about what good research looks like in your community. 
 
+For help using these research guidelines in your community, reach out to [zentx005@umn.edu](mailto:zentx005@umn.edu) and [naqvi042@umn.edu](mailto:naqvi042@umn.edu). Researchers, consider using our [Researcher Guide](https://github.com/zentavious/FACTORS-Community-Guidelines-Template/blob/main/Researcher%20Guide.md).
+
 ## Guidelines Philosophy
 
 Creating research guidelines is an empowering step, but it is important to recognize that this process currently hinges on good faith between researchers and communities. 
@@ -27,6 +29,7 @@ Turning on notifications for this repository is one way of staying informed.
 This template is intended to be a starting point for conversation.
 If your community develops insights or improvements, we encourage you to share them with others by submitting a pull request or forking this repository.
 
+This template is not complete. It is designed to serve as a starting point. Developing research guidelines is an iterative process. 
 ---
 
 ## Baseline Template Instructions
