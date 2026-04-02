@@ -17,6 +17,7 @@ Students will create research guidelines for their community and explore the fri
 * **Customizing Community Guidelines:** Students will customize research guidelines for a community they are a part of, online or not, using the [community research guidelines template instructions](https://github.com/zentavious/FACTORS-Community-Guidelines-Template/blob/main/README.md).
 * **Discussion Preparation**: After completing the template, students will prepare responses for discussion questions*
     * What are standard research practices, or something researchers might simply not think about, that would turn heads or be unexpected for members in your community?
+    * Are there topics or types of research member sin your community would be exited about?
     * How do expect other members in your community disagree with your guidelines? What kinds of things could you do within your community to reach a compromise on these decisions?
     * If used, how would your guidelines affect what kinds of research that happens in your community? In what ways do they make the research and its outcomes better, and in what ways do they limit it? For example, are all research questions and methods appropriate in your communtiy?
 
