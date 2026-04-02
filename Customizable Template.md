@@ -26,6 +26,7 @@ Published research or datasets from [[[Community Name]]](https://github.com/zent
 > **Customizations:** 
 >  1. **Pre-approval interview**: Novel research may raise questions you or the researchers have not considered before. A brief conversation before it begins gives you more opportunities for feedback and co-design. 
 >  2. **Research threads**: A dedicated place for researchers to seek community approval ensures transparency. It allows members to ask questions, encourages researcher accountability, and maintains an archive of research in your community.
+>  3. **Approval timelines**: Outlining your review process in advance helps researchers plan for your community in their work. For example, you might set expectations for a response in 2 weeks, how to re-submit modifications after receiving feedback, or what to do in cases when no one responds.
 
 ### Working with Members
 
@@ -33,7 +34,7 @@ Published research or datasets from [[[Community Name]]](https://github.com/zent
 > **What is this for?** Research that interacts directly with members can risk of exposing their vulnerabilities. Reviewing proposed research helps ensure members are treated with care. Feedback at this stage also helps produce more meaninful findings. 
 > 
 > **Customizations:** 
->  1. **Research flags**: When researchers identify themselves in certain ways, members may be able to use their best judgement. Some communities use dedicated flags, required profile information, or introductory posts to manage researchers' presence.
+>  1. **Identifying Researchers**: When researchers identify themselves in certain ways, members may be able to use their best judgement. Some communities use dedicated flags, required profile information, or standardized introductory posts to manage researchers' presence.
 
 Researchers interacting directly with members or posting in our community should contact [[[Contact Information]]](https://github.com/zentavious/FACTORS-Community-Guidelines-Template/tree/main?tab=readme-ov-file#contact-information) before working with [[[Community Name]]](https://github.com/zentavious/FACTORS-Community-Guidelines-Template/tree/main?tab=readme-ov-file#community-name). Surveys, interviews, and field experiments that interact with members via posts, comments, or private messages fit this definition.
 
