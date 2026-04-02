@@ -112,6 +112,14 @@ If [[[Community Name]]](https://github.com/zentavious/FACTORS-Community-Guidelin
 
 ### Getting to Know [[[Community Name]]](https://github.com/zentavious/FACTORS-Community-Guidelines-Template/tree/main?tab=readme-ov-file#community-name)
 
+> [!NOTE]
+> **What is this for?** Researchers may misunderstand a community if they just collect data from it without making an effort to understand the community. Helping researchers get to know the community gives them context about community norms, values, and expectations to make more informed and responsible research decisions.
+> 
+> **Customizations:** 
+>  1. ***Reading***: Researchers may be asked to review materials such as research archive, FAQs, or Wikis before beginning research.
+> 2. **Researcher participation in community prior to research**: Some communities may prefer that researchers spend time actively participating in the community before conducting research so they can better understand its norms and practices.
+
+
 [[[Introduction to the Community]]](https://github.com/zentavious/FACTORS-Community-Guidelines-Template/tree/main?tab=readme-ov-file#introduction-to-the-community)
 
 ---
