@@ -61,7 +61,11 @@ The formal role or title of the person or group monitoring the contact channel.
 
 ### `[[Introduction to Research in the Community]]`
 
-Information aimed at teaching members of your community about why research happens here and what it means for them.
+Information aimed at teaching members of your community about why research happens here and what it means for them. 
+It can be alarming the first time you learn about research in your community.
+This happens because people often have different interpretations of the "publicness" of online data.
+By discussing this in your research guidelines, it helps the members and researchers in the community come to a shared understanding.
+One strategy that is helpful for breaching these topics for the first time is to talk about why this community is important to research, and how your community stands to benefit from that important research.
 
 **Instructions:** Write one or more sentences for each of the core questions below:
   * *Why do members join your community?* What draws people here? What needs, interests, or experiences do members share? What keeps them engaged?
@@ -71,9 +75,11 @@ Information aimed at teaching members of your community about why research happe
 ### `[[Introduction to the Community]]`
 
 Information aimed at teaching researchers who want to understand your community well.
+Some researchers may not fully understand the topic and purpose of your community.
+A helpful strategy is to create or reuse resources for newcomers to teach researchers about your community
 
 **Instructions:** Write a short introduction for researchers to get to know the values, goals, and/or norms of your community. Consider the following probing questions:
-  * Can you link to or reuse existing FAQs, wikis, or onboarding artifacts to teach researchers?
+  * Can you link to or reuse existing FAQs, wikis, or onboarding documents to teach researchers?
   * What is the overarching goal of this community?
   * What do members value about your community?
   * What mistakes do newcomers commonly make?
