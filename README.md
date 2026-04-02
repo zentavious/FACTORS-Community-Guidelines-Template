@@ -29,7 +29,8 @@ Turning on notifications for this repository is one way of staying informed.
 This template is intended to be a starting point for conversation.
 If your community develops insights or improvements, we encourage you to share them with others by submitting a pull request or forking this repository.
 
-This template is not complete. It is designed to serve as a starting point. Developing research guidelines is an iterative process. 
+Reminder that this template is not inteded to be complete and is designed to serve as a starting point. Developing research guidelines is an iterative process.  
+
 ---
 
 ## Baseline Template Instructions
