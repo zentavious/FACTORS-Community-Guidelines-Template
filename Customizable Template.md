@@ -1,6 +1,9 @@
-# Baseline Template
+# Customizable Template
 
 ## Introduction
+> [!NOTE]
+> **What is this for?** This section introduces what research is, why research in this community may require special care, and why these guidelines exist. It sets expectations for both researchers and members before the document turns to specific guidelines.
+
 
 [[[Introduction to Research in the Community]]](https://github.com/zentavious/FACTORS-Community-Guidelines-Template/tree/main?tab=readme-ov-file#introduction-to-research-in-the-community)
 
@@ -30,7 +33,7 @@ Published research or datasets from [[[Community Name]]](https://github.com/zent
 ### Working with Members
 
 > [!NOTE]
-> **What is this for?** Research that interacts directly with members can risk of exposing their vulnerabilities. Reviewing proposed research helps ensure members are treated with care. Feedback at this stage also helps produce more meaninful findings. 
+> **What is this for?** Research that interacts directly with members can risk exposing their vulnerabilities. Reviewing proposed research helps ensure members are treated with care. Feedback at this stage also helps produce more meaningful findings. 
 > 
 > **Customizations:** 
 >  1. **Research flags**: When researchers identify themselves in certain ways, members may be able to use their best judgement. Some communities use dedicated flags, required profile information, or introductory posts to manage researchers' presence.
