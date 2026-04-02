@@ -18,7 +18,7 @@ Published research or datasets from [[[Community Name]]](https://github.com/zent
 
 Please note that simply adhering to this document does not mean your ethical review is complete.
 They are meant to be a resource to help researchers answer the prompts related to our community in the [AoiR 2.0 guidelines](https://aoir.org/reports/ethics2.pdf).
-Furthermore, researchers should utilize the [AoiR 3.0 guidelines](https://aoir.org/reports/ethics3.pdf) to hone their methods and research questions at different stages of their work.
+Furthermore, researchers should utilize the stages of research considerations of [AoiR 3.0 guidelines](https://aoir.org/reports/ethics3.pdf) to understand where in the research process these guidelines can be used to inform research decisions.
 
 ---
 
