@@ -3,6 +3,11 @@
 ## Introduction
 > [!NOTE]
 > **What is this for?** This section introduces what research is, why research in this community may require special care, and why these guidelines exist. It sets expectations for both researchers and members before the document turns to specific guidelines.
+>
+> **Customizations:** 
+> 1. **Research in the community**: Describe the kinds of research specific to the community and, if relevant, how the community has benefited from it in the past.
+> 2. **Why these guidelines exist**: Explain why general ethics review may not be able to fully take into account risks to the community and why researchers should follow these guidelines specific to the community.
+> 3. **Reporting concerns**: Describe how members should report research that is not aligned with the community’s values or these guidelines, and what actions the community may take in response.
 
 
 [[[Introduction to Research in the Community]]](https://github.com/zentavious/FACTORS-Community-Guidelines-Template/tree/main?tab=readme-ov-file#introduction-to-research-in-the-community)
@@ -63,7 +68,7 @@ Reaching out before you start allows us to do a baseline review to make sure you
 > **What is this for?** Research publishing commmunity artifacts or data risk increasing community exposure. It can also be alarming for members to learn about their involvement after the fact. Providing feedback to researchers about how to publish and share findings helps preserve the openness that makes your community valueable.
 > 
 > **Customizations:** 
->  1. **Opt-out tags**: Giving members the option to opt-out of their contributions being used in research is another way set these expectations within the community.
+>  1. **Opt-out tags**: Giving members the option to opt-out of their contributions being used in research is another way to set these expectations within the community.
 
 Researchers working with public data are recommended to contact [[[Contact Information]]](https://github.com/zentavious/FACTORS-Community-Guidelines-Template/tree/main?tab=readme-ov-file#contact-information) if [[[Community Name]]](https://github.com/zentavious/FACTORS-Community-Guidelines-Template/tree/main?tab=readme-ov-file#community-name) is the focus of the work.
 
