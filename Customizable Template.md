@@ -116,7 +116,7 @@ If [[[Community Name]]](https://github.com/zentavious/FACTORS-Community-Guidelin
 > **What is this for?** Researchers may misunderstand a community if they just collect data from it without making an effort to understand the community. Helping researchers get to know the community gives them context about community norms, values, and expectations to make more informed and responsible research decisions.
 > 
 > **Customizations:** 
->  1. ***Reading***: Researchers may be asked to review materials such as research archive, FAQs, or Wikis before beginning research.
+>  1. **Reading**: Researchers may be asked to review materials such as research archive, FAQs, or Wikis before beginning research.
 > 2. **Researcher participation in community prior to research**: Some communities may prefer that researchers spend time actively participating in the community before conducting research so they can better understand its norms and practices.
 
 
@@ -139,6 +139,11 @@ Whenever possible, publish findings in open-access journals or publicly availabl
 ---
 
 ### Protecting Members
+> [!NOTE]
+> **What is this for?** Research can create risks for members by exposing personal information or drawing attention to community. This section helps communities explain what steps researchers should take to protect members and minimize unintended harms.
+>
+> **Customizations:**
+1. **Protecting identity**: Communities may ask researchers to present findings in aggregate, paraphrase quotations, or de-identify member data.
 
 Researchers conducting surveys should not collect more personal or demographic data than necessary (including usernames). Researchers working with public data can protect members by presenting findings in aggregate. When publishing or documenting data, de-identify member data to avoid bringing unwarranted attention and minimize unintended harms.
 
