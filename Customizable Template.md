@@ -138,7 +138,6 @@ If [[[Community Name]]](https://github.com/zentavious/FACTORS-Community-Guidelin
 >
 > **Customizations:**
 > 1. **Sharing results in a specified format**: Communities may request that findings be shared in particular formats, such as summaries, insights, blog posts, presentations, newsletters, or research threads.
-> 2. **Hosting AMAs**: Communities may encourage researchers to host AMAs or similar discussions so members can ask questions about the research and its findings.
 
 It is important to us that research leveraging community data and resources meaningfully contributes to our goals. Using our values as a guide, researchers should consider how their results can be applied within the community.
 
