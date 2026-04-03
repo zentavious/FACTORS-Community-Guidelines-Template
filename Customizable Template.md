@@ -25,6 +25,14 @@ If you’d like to learn more, we encourage anyone interested to review our Guid
 Published research or datasets from [[[Community Name]]](https://github.com/zentavious/FACTORS-Community-Guidelines-Template/tree/main?tab=readme-ov-file#community-name) should have an ethics section that discusses the steps taken to ensure the research was aligned with our community’s expectations. We encourage reviewers to hold researchers to these standards. In each of the following sections, we provide an example of what this might look like. Please adapt these examples to the specifics of your research to demonstrate genuine ethical deliberation.
 
 ---
+### Researcher Eligibility
+
+To be eligible to conduct research with our community, researchers must provide verifiable contact information when reaching out about their work. Student researchers must also identify a faculty supervisor or other responsible advisor who oversees the project and can take responsibility for it.
+
+These requirements help us confirm who we are engaging with and ensure there is a point of accountability throughout the research process.
+
+---
+
 
 ## Community Approval
 
