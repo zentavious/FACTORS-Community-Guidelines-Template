@@ -26,18 +26,6 @@ Published research or datasets from [[[Community Name]]](https://github.com/zent
 
 ---
 
-### Researcher Eligibility
-
-> [!NOTE]
-> **What is this for?** Communities may want a way to verify who is conducting research and ensure there is a point of accountability.
->
-> **Customizations:**
-> 1. **Eligible types of research**: Communities may define whether eligibility differs across research contexts, such as nonprofit, academic, or commercial research.
-
-
-This helps establish accountability and make it easier for the community to follow up about the research if needed.
-
----
 
 ## Community Approval
 
@@ -122,6 +110,16 @@ If [[[Community Name]]](https://github.com/zentavious/FACTORS-Community-Guidelin
 ---
 
 ## Resources and Best Practices
+
+### Researcher Eligibility
+
+> [!NOTE]
+> **What is this for?** Some communities may want to define who is eligible to conduct research with the community and what kinds of research is allowed. This section gives is a place to describe those expectations.
+>
+> **Customizations:**
+> 1. **Eligible types of research**: Communities may define whether eligibility differs across research contexts, such as nonprofit, academic, or commercial research.
+
+These requirements help us confirm who we are engaging with and ensure there is a point of accountability throughout the process.
 
 ### Getting to Know [[[Community Name]]](https://github.com/zentavious/FACTORS-Community-Guidelines-Template/tree/main?tab=readme-ov-file#community-name)
 
