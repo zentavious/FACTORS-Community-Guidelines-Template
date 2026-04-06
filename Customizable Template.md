@@ -5,8 +5,8 @@
 > **What is this for?** This section introduces what research is, why research in this community may require special care, and why these guidelines exist. It sets expectations for both researchers and members before the document turns to specific guidelines.
 >
 > **Customizations:** 
-> 1. **Research in the community**: Describe the kinds of research specific to the community and, if relevant, how the community has benefited from it in the past.
-> 2. **Why these guidelines exist**: Explain why general ethics review may not be able to fully take into account risks to the community and why researchers should follow these guidelines specific to the community.
+> 1. **Why these guidelines exist**: Explain why general ethics review may not be able to fully take into account risks to the community and why researchers should follow these guidelines specific to the community.
+> 2. **Research in the community**: Communities may describe why researchers have been interested in their community, what aspects should be treated with care, and how research has benefited the community in the past.
 > 3. **Reporting concerns**: Describe how members should report research that is not aligned with the community’s values or these guidelines, and what actions the community may take in response.
 
 
@@ -25,14 +25,19 @@ If you’d like to learn more, we encourage anyone interested to review our Guid
 Published research or datasets from [[[Community Name]]](https://github.com/zentavious/FACTORS-Community-Guidelines-Template/tree/main?tab=readme-ov-file#community-name) should have an ethics section that discusses the steps taken to ensure the research was aligned with our community’s expectations. We encourage reviewers to hold researchers to these standards. In each of the following sections, we provide an example of what this might look like. Please adapt these examples to the specifics of your research to demonstrate genuine ethical deliberation.
 
 ---
+
 ### Researcher Eligibility
 
-To be eligible to conduct research with our community, researchers must provide verifiable contact information when reaching out about their work. Student researchers must also identify a faculty supervisor or other responsible advisor who oversees the project and can take responsibility for it.
+> [!NOTE]
+> **What is this for?** Communities may want a way to verify who is conducting reearch and ensure there is a point of accountability.
+>
+> **Customizations:**
+> 1. **Eligible types of research**: Communities may define whether eligibility differs across research contexts, such as nonprofit, academic, or commercial research.
 
-These requirements help us confirm who we are engaging with and ensure there is a point of accountability throughout the research process.
+
+Theis helps establish accountability and make it easier for the community to follow up about the research if needed.
 
 ---
-
 
 ## Community Approval
 
@@ -121,11 +126,11 @@ If [[[Community Name]]](https://github.com/zentavious/FACTORS-Community-Guidelin
 ### Getting to Know [[[Community Name]]](https://github.com/zentavious/FACTORS-Community-Guidelines-Template/tree/main?tab=readme-ov-file#community-name)
 
 > [!NOTE]
-> **What is this for?** Researchers may misunderstand a community if they just collect data from it without making an effort to understand the community. Helping researchers get to know the community gives them context about community norms, values, and expectations to make more informed and responsible research decisions.
+> **What is this for?** Researchers may misunderstand a community if they just collect data from it without making an effort to understand the community. Getting to know the community can give researchers the context to make interpret results more accuratley, and better which questions or findings are likely to be useful, respectful, or harmful.
 > 
 > **Customizations:** 
 >  1. **Reading**: Researchers may be asked to review materials such as research archive, FAQs, or Wikis before beginning research.
-> 2. **Researcher participation in community prior to research**: Some communities may prefer that researchers spend time actively participating in the community before conducting research so they can better understand its norms and practices.
+> 2. **Researcher participation in community prior to research**: Some communities may prefer that researchers actively participate in the community before conducting research so they can better understand its norms.
 
 
 [[[Introduction to the Community]]](https://github.com/zentavious/FACTORS-Community-Guidelines-Template/tree/main?tab=readme-ov-file#introduction-to-the-community)
