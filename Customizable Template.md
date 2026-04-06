@@ -2,10 +2,6 @@
 
 ## Introduction
 
-# Customizable Template
-
-## Introduction
-
 > [!NOTE] > **What is this for?** This section introduces what research is, why research in this community may require special care, and why these guidelines exist. It sets expectations for both researchers and members before the document turns to specific guidelines.
 >
 > **Customizations:**
