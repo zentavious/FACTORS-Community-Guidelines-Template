@@ -14,7 +14,11 @@ If you’d like to learn more, we encourage anyone interested to review our Guid
 
 ### How to Use
 
-Published research or datasets from [[[Community Name]]](https://github.com/zentavious/FACTORS-Community-Guidelines-Template/tree/main?tab=readme-ov-file#community-name) should have an ethics section that discusses the steps taken to ensure the research was aligned with our community’s expectations. We encourage reviewers to hold researchers to these standards. In each of the following sections, we provide an example of what this might look like. Please adapt these examples to the specifics of your research to demonstrate genuine ethical deliberation.
+Published research or datasets from [[[Community Name]]](https://github.com/zentavious/FACTORS-Community-Guidelines-Template/tree/main?tab=readme-ov-file#community-name) should have an ethics section that discusses the steps taken to ensure the research was aligned with our community’s expectations. In that section, refence these guideilnes using the citation _[[Community Name]]. [[Community Name]] Research Guidelines._ We encourage reviewers to hold researchers to these standards. In each of the following, we provide an example of what writing about this might look like in your ethics section. Please adapt these examples to the specifics of your research to demonstrate genuine ethical deliberation.
+
+Please note that simply adhering to this document does not mean your ethical review is complete.
+They are meant to be a resource to help researchers answer the prompts related to our community in the [AoiR 2.0 guidelines](https://aoir.org/reports/ethics2.pdf).
+Furthermore, researchers should utilize the stages of research considerations of [AoiR 3.0 guidelines](https://aoir.org/reports/ethics3.pdf) to understand where in the research process these guidelines can be used to inform research decisions.
 
 ---
 
