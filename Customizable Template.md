@@ -42,7 +42,7 @@ Published research or datasets from [[[Community Name]]](https://github.com/zent
 > **What is this for?** Research that interacts directly with members can risk exposing their vulnerabilities. Reviewing proposed research helps ensure members are treated with care. Feedback at this stage also helps produce more meaningful findings. 
 > 
 > **Customizations:** 
->  1. **Research flags**: When researchers identify themselves in certain ways, members may be able to use their best judgement. Some communities use dedicated flags, required profile information, or introductory posts to manage researchers' presence.
+>  1. **Research flags**: When researchers identify themselves in certain ways, members may be able to use their best judgment. Some communities use dedicated flags, required profile information, or introductory posts to manage researchers' presence.
 
 Researchers interacting directly with members or posting in our community should contact [[[Contact Information]]](https://github.com/zentavious/FACTORS-Community-Guidelines-Template/tree/main?tab=readme-ov-file#contact-information) before working with [[[Community Name]]](https://github.com/zentavious/FACTORS-Community-Guidelines-Template/tree/main?tab=readme-ov-file#community-name). Surveys, interviews, and field experiments that interact with members via posts, comments, or private messages fit this definition.
 
@@ -66,7 +66,7 @@ Reaching out before you start allows us to do a baseline review to make sure you
 ### Focused on Community Data
 
 > [!NOTE]
-> **What is this for?** Research publishing commmunity artifacts or data risk increasing community exposure. It can also be alarming for members to learn about their involvement after the fact. Providing feedback to researchers about how to publish and share findings helps preserve the openness that makes your community valueable.
+> **What is this for?** Research publishing community artifacts or data risks increasing community exposure. It can also be alarming for members to learn about their involvement after the fact. Providing feedback to researchers about how to publish and share findings helps preserve the openness that makes your community valuable.
 > 
 > **Customizations:** 
 >  1. **Opt-out tags**: Giving members the option to opt-out of their contributions being used in research is another way to set these expectations within the community.
@@ -97,11 +97,11 @@ If your study has already begun, we would still appreciate learning about key fi
 ### Including Community Data
 
 > [!NOTE]
-> **What is this for?** When community data is part of a broader analysis and is not identifiable, it may pose less of a risk to your community. This sections establishes an unrestictive boundary, a point where the community defers good judgement to existing best practices. When defining an unrestrictive boundary, it is important to point researchers to resources that help them make informed decisions on their own. Note, that _best practices_ may different between disciplines.
+> **What is this for?** When community data is part of a broader analysis and is not identifiable, it may pose less of a risk to your community. This section establishes an unrestictive boundary, a point where the community defers good judgment to existing best practices. When defining an unrestrictive boundary, it is important to point researchers to resources that help them make informed decisions on their own. Note that _best practices_ may different between disciplines.
 > 
 > **Customizations:** 
 >  1. **Public spaces**: Some areas of your community may be more public than others. Naming these _researchable_ areas in your guidelines sets expectations with researchers and members. Because members expect good-faith researchers, prior approval may not be necessary.
->  2. **Secondary Use**: Some uses of community data may be more appropriate than others. In these cases, research topics or outcomes are consistent with your community's goals or members expectations. Its also worth considering what acceptable use of once-approved research datasets looks like.
+>  2. **Secondary Use**: Some uses of community data may be more appropriate than others. In these cases, research topics or outcomes are consistent with your community's goals or members' expectations. It is also worth considering what acceptable use of once-approved research datasets looks like.
 
 If [[[Community Name]]](https://github.com/zentavious/FACTORS-Community-Guidelines-Template/tree/main?tab=readme-ov-file#community-name) data is part of a broader analysis and does not identify our community, researchers should use their best judgment while considering our Resources and Best Practices.
 
@@ -114,10 +114,12 @@ If [[[Community Name]]](https://github.com/zentavious/FACTORS-Community-Guidelin
 ### Researcher Eligibility
 
 > [!NOTE]
-> **What is this for?** Some communities may want to define who is eligible to conduct research with the community and what kinds of research is allowed. This section gives is a place to describe those expectations.
+> **What is this for?** Some communities may want to define who is eligible to conduct research with the community. This section gives communities a place to describe those expectations.
 >
 > **Customizations:**
 > 1. **Eligible types of research**: Communities may define whether eligibility differs across research contexts, such as nonprofit, academic, or commercial research.
+
+To be eligible to conduct research with our community, researchers must provide verifiable institution-affiliated contact information. 
 
 These requirements help us confirm who we are engaging with and ensure there is a point of accountability throughout the process.
 
@@ -125,7 +127,7 @@ These requirements help us confirm who we are engaging with and ensure there is 
 
 
 > [!NOTE]
-> **What is this for?** Researchers may misunderstand a community if they just collect data from it without making an effort to understand the community. Getting to know the community can help researchers make sense of what they are observing, avoid reading community behavior out of context, and better understand which questions or findings are likely to be useful, respectful, or harmful.
+> **What is this for?** Researchers may misunderstand a community if they just collect data from it without making an effort to understand it. Getting to know the community can help researchers make sense of what they are observing, avoid reading community behavior out of context, and better understand which questions or findings are likely to be useful, respectful, or harmful.
 > 
 > **Customizations:** 
 >  1. **Reading**: Researchers may be asked to review materials such as research archive, FAQs, or Wikis before beginning research.
@@ -138,7 +140,7 @@ These requirements help us confirm who we are engaging with and ensure there is 
 
 ### Sharing Results
 > [!NOTE]
-> **What is this for?** Research that uses community data or resources should aim to give back to the community. This section helps communities explain how researchers can share findings in ways that are accessible, and aligned with community goals. It can also help researchers understand what kinds of questions or forms of contribution the community finds most valuable.
+> **What is this for?** Research that uses community data or resources should aim to give back to the community. This section helps communities explain how researchers can share findings in ways that are accessible and aligned with community goals. It can also help researchers understand what kinds of questions or forms of contribution the community finds most valuable.
 >
 > **Customizations:**
 > 1. **Sharing results in a specified format**: Communities may request that findings be shared in particular formats, such as summaries, insights, blog posts, presentations, newsletters, or research threads.
@@ -152,10 +154,10 @@ Whenever possible, publish findings in open-access journals or publicly availabl
 
 ### Protecting Members
 > [!NOTE]
-> **What is this for?** Research can create risks for members by exposing personal information or drawing attention to community. In addition to protecting identity, communities may want researchers to think carefully about whether interactions could place members at risk or undermine their well-being.
+> **What is this for?** Research can create risks for members by exposing personal information or drawing attention to the community. In addition to protecting identity, communities may want researchers to think carefully about whether interactions could place members at risk or undermine their well-being.
 >
 > **Customizations:**
-1. ***Respect for diversity**: Researchers should respect the diversity of beliefs held by community members. They should not approach the community in ways that dismiss, debunk, or promote one belief over others.
+1. **Respect for diversity**: Researchers should respect the diversity of beliefs held by community members. They should not approach the community in ways that dismiss, debunk, or promote one belief over others.
 > 2. **Restrictions on incentives**: Communities may place limits on the kinds of incentives researchers can offer when certain forms of compensation could be harmful to members.
 
 Researchers conducting surveys should not collect more personal or demographic data than necessary (including usernames). Researchers working with public data can protect members by presenting findings in aggregate. When publishing or documenting data, de-identify member data to avoid bringing unwarranted attention and minimize unintended harms.
