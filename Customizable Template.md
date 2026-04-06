@@ -6,7 +6,7 @@
 >
 > **Customizations:** 
 > 1. **Why these guidelines exist**: Explain why general ethics review may not be able to fully take into account risks to the community and why researchers should follow these guidelines specific to the community.
-> 2. **Research in the community**: Communities may describe why researchers have been interested in their community, what aspects should be treated with care, and how research has benefited the community in the past.
+> 2. **Research in the community**:  Communities may describe what has drawn researchers to their community, what aspects of community require special care, and what kinds of past research have been helpful, harmful, or relevant.
 > 3. **Reporting concerns**: Describe how members should report research that is not aligned with the community’s values or these guidelines, and what actions the community may take in response.
 
 
@@ -29,13 +29,13 @@ Published research or datasets from [[[Community Name]]](https://github.com/zent
 ### Researcher Eligibility
 
 > [!NOTE]
-> **What is this for?** Communities may want a way to verify who is conducting reearch and ensure there is a point of accountability.
+> **What is this for?** Communities may want a way to verify who is conducting research and ensure there is a point of accountability.
 >
 > **Customizations:**
 > 1. **Eligible types of research**: Communities may define whether eligibility differs across research contexts, such as nonprofit, academic, or commercial research.
 
 
-Theis helps establish accountability and make it easier for the community to follow up about the research if needed.
+This helps establish accountability and make it easier for the community to follow up about the research if needed.
 
 ---
 
@@ -126,7 +126,7 @@ If [[[Community Name]]](https://github.com/zentavious/FACTORS-Community-Guidelin
 ### Getting to Know [[[Community Name]]](https://github.com/zentavious/FACTORS-Community-Guidelines-Template/tree/main?tab=readme-ov-file#community-name)
 
 > [!NOTE]
-> **What is this for?** Researchers may misunderstand a community if they just collect data from it without making an effort to understand the community. Getting to know the community can give researchers the context to make interpret results more accuratley, and better which questions or findings are likely to be useful, respectful, or harmful.
+> **What is this for?** Researchers may misunderstand a community if they just collect data from it without making an effort to understand the community. Getting to know the community can give researchers the context to interpret results more accuratley, and better understand which questions or findings are likely to be useful, respectful, or harmful.
 > 
 > **Customizations:** 
 >  1. **Reading**: Researchers may be asked to review materials such as research archive, FAQs, or Wikis before beginning research.
