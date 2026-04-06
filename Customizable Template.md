@@ -152,10 +152,10 @@ Whenever possible, publish findings in open-access journals or publicly availabl
 
 ### Protecting Members
 > [!NOTE]
-> **What is this for?** Research can create risks for members by exposing personal information or drawing attention to community. This section helps communities explain what steps researchers should take to protect members and minimize unintended harms.
+> **What is this for?** Research can create risks for members by exposing personal information or drawing attention to community. In addition to protecting identity, communities may want researchers to think carefully about whether interactions could place members at risk or undermine their well-being.
 >
 > **Customizations:**
-1. ***Respect for belief diversity**: Researchers should respect the diversity of beliefs held by community members. They should not approach the community in ways that dismiss, debunk, or promote one belief over others.
+1. ***Respect for diversity**: Researchers should respect the diversity of beliefs held by community members. They should not approach the community in ways that dismiss, debunk, or promote one belief over others.
+> 2. **Restrictions on incentives**: Communities may place limits on the kinds of incentives researchers can offer when certain forms of compensation could be harmful to members.
 
 Researchers conducting surveys should not collect more personal or demographic data than necessary (including usernames). Researchers working with public data can protect members by presenting findings in aggregate. When publishing or documenting data, de-identify member data to avoid bringing unwarranted attention and minimize unintended harms.
-
