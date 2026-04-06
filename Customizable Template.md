@@ -123,8 +123,9 @@ These requirements help us confirm who we are engaging with and ensure there is 
 
 ### Getting to Know [[[Community Name]]](https://github.com/zentavious/FACTORS-Community-Guidelines-Template/tree/main?tab=readme-ov-file#community-name)
 
+
 > [!NOTE]
-> **What is this for?** Researchers may misunderstand a community if they just collect data from it without making an effort to understand the community. Getting to know the community can give researchers the context to interpret results more accuratley, and better understand which questions or findings are likely to be useful, respectful, or harmful.
+> **What is this for?** Researchers may misunderstand a community if they just collect data from it without making an effort to understand the community. Getting to know the community can help researchers make sense of what they are observing, avoid reading community behavior out of context, and better understand which questions or findings are likely to be useful, respectful, or harmful.
 > 
 > **Customizations:** 
 >  1. **Reading**: Researchers may be asked to review materials such as research archive, FAQs, or Wikis before beginning research.
