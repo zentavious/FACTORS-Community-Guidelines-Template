@@ -139,7 +139,7 @@ If [[[Community Name]]](https://github.com/zentavious/FACTORS-Community-Guidelin
 
 ### Sharing Results
 > [!NOTE]
-> **What is this for?** Research that uses community data or resources should aim to give back to the community. This section helps communities explain how researchers can share findings in ways that are accessible, and aligned with community goals.
+> **What is this for?** Research that uses community data or resources should aim to give back to the community. This section helps communities explain how researchers can share findings in ways that are accessible, and aligned with community goals. It can also help researchers understand what kinds of questions or forms of contribution the community finds most valuable.
 >
 > **Customizations:**
 > 1. **Sharing results in a specified format**: Communities may request that findings be shared in particular formats, such as summaries, insights, blog posts, presentations, newsletters, or research threads.
@@ -149,6 +149,7 @@ It is important to us that research leveraging community data and resources mean
 Whenever possible, publish findings in open-access journals or publicly available preprints. Research behind paywalls cannot benefit the community.
 
 ---
+
 
 ### Protecting Members
 > [!NOTE]
