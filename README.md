@@ -33,7 +33,7 @@ Reminder that this template is not inteded to be complete and is designed to ser
 
 ---
 
-## Baseline Template Instructions
+## Template Instructions
 
 ### Filling out the template
 
@@ -96,6 +96,3 @@ Guidelines can't help if no one can find them. When considering where to publish
 3. **Talk to members about it:** Talk to your community about these guidelines. We recommend creating space for input from members. Guidelines are most effective when they reflect the views and expectations of members in your community.
 
 ---
-
-## Customizable Template Instructions
-*In progress...*
