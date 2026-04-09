@@ -1,7 +1,7 @@
 # Coursework Activity: Creating Online Community Research Guidelines
 
 **Overview:** 
-This activity is designed for instructors to introduce senion undergraduate or graduate students to the FACTORS framework.
+This activity is designed for instructors to introduce senior undergraduate or graduate students to the FACTORS framework.
 Students will adapt generalized templates for online community research guidelines to a community they're a part of.
 This coursework is intended to help student think about ethical research in online communities and using online data.
 
@@ -29,6 +29,8 @@ Students will divide into small groups. *Optional: Group by similar contexts (e.
 * Briefly present their customized templates
 * Discuss prepared discussion questions.
 * Identify areas where their guidelines converged and diverged.
+* (Optional) Collectively design a set of research guidelines for your cluster of communities.
+  * What important or valuable research questions for each individual community are no longer possible under your collective guidelines?
 * Each group will share out their groups core and contextual research boundaries.
   * What were 1-2 guidelines that communities that were similar?
   * What were 1-2 guidelines that were highly specific to individual communities in your group?
