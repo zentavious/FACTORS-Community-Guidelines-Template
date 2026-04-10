@@ -96,3 +96,7 @@ Guidelines can't help if no one can find them. When considering where to publish
 3. **Talk to members about it:** Talk to your community about these guidelines. We recommend creating space for input from members. Guidelines are most effective when they reflect the views and expectations of members in your community.
 
 ---
+
+## About
+
+This template was originally developed by Matthew Zent, Masooma Naqvi, Rebecca Jonas, and Lana Yarosh. It is a part of ongoing work currently under review for publication.
