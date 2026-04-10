@@ -31,6 +31,15 @@ If your community develops insights or improvements, we encourage you to share t
 
 Reminder that this template is not inteded to be complete and is designed to serve as a starting point. Developing research guidelines is an iterative process.  
 
+## Publishing Guidelines
+
+Guidelines can't help if no one can find them. When considering where to publish your guidelines, visibility to both members and researchers is equally important.
+
+**Tips:**
+1. **Host it centrally:** Place your newly finalized guidelines where you publish other information for members. For example, this could be a page on your website, a page in your community wiki, or a pinned post.
+2. **Link to it:** If your community has a landing page, add a dedicated Research Guidelines link.
+3. **Talk to members about it:** Talk to your community about these guidelines. We recommend creating space for input from members. Guidelines are most effective when they reflect the views and expectations of members in your community.
+
 ---
 
 ## Template Instructions
@@ -83,17 +92,6 @@ A helpful strategy is to create or reuse resources for newcomers to teach resear
   * What is the overarching goal of this community?
   * What do members value about your community?
   * What mistakes do newcomers commonly make?
-
----
-
-## Publishing Guidelines
-
-Guidelines can't help if no one can find them. When considering where to publish your guidelines, visibility to both members and researchers is equally important.
-
-**Tips:**
-1. **Host it centrally:** Place your newly finalized guidelines where you publish other information for members. For example, this could be a page on your website, a page in your community wiki, or a pinned post.
-2. **Link to it:** If your community has a landing page, add a dedicated Research Guidelines link.
-3. **Talk to members about it:** Talk to your community about these guidelines. We recommend creating space for input from members. Guidelines are most effective when they reflect the views and expectations of members in your community.
 
 ---
 
