@@ -17,7 +17,7 @@ The fact that you’re reading this is already a good sign that you’re well-eq
 
 Feel free to start with the baseline template and build from there as you learn more about what good research looks like in your community. 
 
-For help using these research guidelines in your community, reach out to [zentx005@umn.edu](mailto:zentx005@umn.edu) and [naqvi042@umn.edu](mailto:naqvi042@umn.edu). Researchers, consider using our [Researcher Guide](https://github.com/zentavious/FACTORS-Community-Guidelines-Template/blob/main/Researcher%20Guide.md).
+For help using these research guidelines in your community, reach out to [Redacted for Review]. Researchers, consider using our [Researcher Guide](https://github.com/zentavious/FACTORS-Community-Guidelines-Template/blob/main/Researcher%20Guide.md).
 
 ## Guidelines Philosophy
 
@@ -97,4 +97,4 @@ A helpful strategy is to create or reuse resources for newcomers to teach resear
 
 ## About
 
-This template was originally developed by Matthew Zent, Masooma Naqvi, Rebecca Jonas, and Lana Yarosh. It is a part of ongoing work currently under review for publication.
+This template was originally developed by [Redacted for Review]. It is a part of ongoing work currently under review for publication.
