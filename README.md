@@ -48,19 +48,19 @@ Guidelines can't help if no one can find them. When considering where to publish
 
 These instructions are designed to help you fill out and familiarize yourself with the [Baseline Template](https://github.com/zentavious/FACTORS-Community-Guidelines-Template/blob/main/Baseline%20Template.md#baseline-template). Each placeholder below corresponds directly to bracketed tags in the template. 
 
-### `[[Community Name]]`
+### `{Community Name}`
 The name of your community.
 
 **Instructions:** Replace this placeholder throughout the template. As you do, read the surrounding text to familiarize yourself with the guidelines.
 
-### `[[Contact Information]]`
+### `{Contact Information}`
 The specific individual, group, or channel for researchers to share research inquiries.
 
 **Instructions:** Choose a contact method that is appropriate for researchers to contact your community.
 
 **Examples:** A shared email address, a person to direct message, or a link to a contact form.
 
-### `[[Contact Title]]`
+### `{Contact Title}`
 
 The formal role or title of the person or group monitoring the contact channel.
 
@@ -68,7 +68,7 @@ The formal role or title of the person or group monitoring the contact channel.
 
 **Examples:** *organizer*, *member*, or *researcher*.
 
-### `[[Introduction to Research in the Community]]`
+### `{Introduction to Research in the Community}`
 
 Information aimed at teaching members of your community about why research happens here and what it means for them. 
 It can be alarming the first time you learn about research in your community.
@@ -81,7 +81,7 @@ One strategy that is helpful for breaching these topics for the first time is to
   * *Why might researchers be interested in your community?* What kinds of knowledge, experiences, or interactions might be valuable to researchers working with your community? What would they learn here that is hard to learn elsewhere? 
   * *What are potential benefits of responsible research in your community?* Could research document members’ needs or experiences? Could it support better policies, services, tools, or public understanding? What does it look like for research to be aligned with your community's goals?
 
-### `[[Introduction to the Community]]`
+### `{Introduction to the Community}`
 
 Information aimed at teaching researchers who want to understand your community well.
 Some researchers may not fully understand the topic and purpose of your community.
