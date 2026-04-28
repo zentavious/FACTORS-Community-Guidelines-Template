@@ -1,5 +1,7 @@
 # Community Research Guidelines Template Instructions
 
+_Note: Markdown navigation is not fully supported on anonymous.4open.science. This functionality is fully supported on native GitHub._
+
 Online communities bring together members around a variety of shared values and goals. 
 This makes them valuable sites for research because they offer a window into how members share experiences, knowledge, and perspectives that might otherwise be inaccessible.
 Research with online communities can take many forms, including surveys, interviews, experiments, and observational studies. 
