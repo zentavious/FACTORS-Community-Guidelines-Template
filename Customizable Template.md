@@ -2,7 +2,8 @@
 
 ## Introduction
 
-> [!NOTE] > **What is this for?** This section introduces what research is, why research in this community may require special care, and why these guidelines exist. It sets expectations for both researchers and members before the document turns to specific guidelines.
+> [!NOTE]
+> **What is this for?** This section introduces what research is, why research in this community may require special care, and why these guidelines exist. It sets expectations for both researchers and members before the document turns to specific guidelines.
 >
 > **Customizations:**
 >
@@ -27,7 +28,8 @@ Published research or datasets from [[[Community Name]]](https://github.com/zent
 
 ## Community Approval
 
-> [!NOTE] > **What is this for?** Some research may risk disrupting the community. Encouraging researchers to reach out at different parts of the research gives you the chance to flag concerns and minimize unintended outcomes.
+> [!NOTE]
+> **What is this for?** Some research may risk disrupting the community. Encouraging researchers to reach out at different parts of the research gives you the chance to flag concerns and minimize unintended outcomes.
 >
 > **Customizations:**
 >
@@ -36,7 +38,8 @@ Published research or datasets from [[[Community Name]]](https://github.com/zent
 
 ### Working with Members
 
-> [!NOTE] > **What is this for?** Research that interacts directly with members can risk exposing their vulnerabilities. Reviewing proposed research helps ensure members are treated with care. Feedback at this stage also helps produce more meaningful findings.
+> [!NOTE]
+> **What is this for?** Research that interacts directly with members can risk exposing their vulnerabilities. Reviewing proposed research helps ensure members are treated with care. Feedback at this stage also helps produce more meaningful findings.
 >
 > **Customizations:**
 >
@@ -65,7 +68,8 @@ _Example for the Ethics Section of a publication or dataset card:_
 
 ### Focused on Community Data
 
-> [!NOTE] > **What is this for?** Research publishing community artifacts or data risks increasing community exposure. It can also be alarming for members to learn about their involvement after the fact. Providing feedback to researchers about how to publish and share findings helps preserve the openness that makes your community valuable.
+> [!NOTE]
+> **What is this for?** Research publishing community artifacts or data risks increasing community exposure. It can also be alarming for members to learn about their involvement after the fact. Providing feedback to researchers about how to publish and share findings helps preserve the openness that makes your community valuable.
 >
 > **Customizations:**
 >
@@ -96,7 +100,8 @@ _Example for the Ethics Section of a publication or dataset card:_
 
 ### Including Community Data
 
-> [!NOTE] > **What is this for?** When community data is part of a broader analysis and is not identifiable, it may pose less of a risk to your community. This section establishes an unrestictive boundary, a point where the community defers good judgment to existing best practices. When defining an unrestrictive boundary, it is important to point researchers to resources that help them make informed decisions on their own. Note that _best practices_ may different between disciplines.
+> [!NOTE]
+> **What is this for?** When community data is part of a broader analysis and is not identifiable, it may pose less of a risk to your community. This section establishes an unrestictive boundary, a point where the community defers good judgment to existing best practices. When defining an unrestrictive boundary, it is important to point researchers to resources that help them make informed decisions on their own. Note that _best practices_ may different between disciplines.
 >
 > **Customizations:**
 >
@@ -113,7 +118,8 @@ _Example for the Ethics Section of a publication or dataset card:_
 
 ## Resources and Best Practices
 
-> [!NOTE] > **What is this for?** Some communities may want to provide additional guidance for researchers. This can help set expectations before researchers approach the community, saving everyone time. The goal isn't to be exhaustive. It is to complement established best practices with the perspectives and priorities of community members themselves.
+> [!NOTE]
+> **What is this for?** Some communities may want to provide additional guidance for researchers. This can help set expectations before researchers approach the community, saving everyone time. The goal isn't to be exhaustive. It is to complement established best practices with the perspectives and priorities of community members themselves.
 
 > **Customizations:**
 >
@@ -122,7 +128,8 @@ _Example for the Ethics Section of a publication or dataset card:_
 
 ### Getting to Know [[[Community Name]]](https://github.com/zentavious/FACTORS-Community-Guidelines-Template/tree/main?tab=readme-ov-file#community-name)
 
-> [!NOTE] > **What is this for?** Researchers may misunderstand a community if they just collect data from it without making an effort to understand it. Getting to know the community can help researchers make sense of what they are observing, avoid reading community behavior out of context, and better understand which questions or findings are likely to be useful, respectful, or harmful.
+> [!NOTE]
+> **What is this for?** Researchers may misunderstand a community if they just collect data from it without making an effort to understand it. Getting to know the community can help researchers make sense of what they are observing, avoid reading community behavior out of context, and better understand which questions or findings are likely to be useful, respectful, or harmful.
 >
 > **Customizations:**
 >
@@ -135,7 +142,8 @@ _Example for the Ethics Section of a publication or dataset card:_
 
 ### Sharing Results
 
-> [!NOTE] > **What is this for?** Research that uses community data or resources should aim to give back to the community. This section helps communities explain how researchers can share findings in ways that are accessible and aligned with community goals. It can also help researchers understand what kinds of questions or forms of contribution the community finds most valuable.
+> [!NOTE]
+> **What is this for?** Research that uses community data or resources should aim to give back to the community. This section helps communities explain how researchers can share findings in ways that are accessible and aligned with community goals. It can also help researchers understand what kinds of questions or forms of contribution the community finds most valuable.
 >
 > **Customizations:**
 >
@@ -150,7 +158,8 @@ Whenever possible, publish findings in open-access journals or publicly availabl
 
 ### Protecting Members
 
-> [!NOTE] > **What is this for?** Research can create risks for members by exposing personal information or drawing attention to the community. In addition to protecting identity, communities may want researchers to think carefully about whether their work could place members at risk or undermine their well-being in other ways. These are often connected to unique qualities of the community or its members.
+> [!NOTE]
+> **What is this for?** Research can create risks for members by exposing personal information or drawing attention to the community. In addition to protecting identity, communities may want researchers to think carefully about whether their work could place members at risk or undermine their well-being in other ways. These are often connected to unique qualities of the community or its members.
 >
 > **Customizations:**
 >
